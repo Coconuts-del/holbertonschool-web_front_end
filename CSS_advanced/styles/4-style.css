@@ -12,24 +12,25 @@
 html{
     scroll-behavior: smooth;
 }
-/* color for body*/
+/* color et font for body*/
 body{ 
-    color: var(--text-color); 
-    font: var(--font-family-base);
+    color: #161616;
+    font-family: var(--font-family-base);
 }
 /*color for anchor elements */
 a{
-    color: var(--text-color);
+    color: #161616;
 }   
 .visually-hidden{
     display: none;
 }
 .card-category{
-    color: var(--color-primary);
+    color: #D73953;
 }
 .section-tagline{
-    color: var(--color-primary);
+    color: #D73953;
 }
+/*  font for all heading*/
 h1, h2, h3, h4, h5, h6{
     font-family: var(--font-family-title);
 } 
