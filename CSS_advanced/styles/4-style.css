@@ -15,7 +15,7 @@ html{
 /* color for body*/
 body{ 
     color: #161616;
-    font: var(--font-family-base)
+    font: var(--font-family-base);
 }
 /*color for anchor elements */
 a{
