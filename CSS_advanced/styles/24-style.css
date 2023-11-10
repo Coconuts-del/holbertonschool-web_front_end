@@ -109,14 +109,14 @@ a:active{
 }
 .card-services a{
     display: block;
-    padding: 2rem;
+    padding: 2rem; 
     background-color: var(--color-light-grey);
-} 
+}
 .card-services a:hover{
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
-} 
+}
 
 /* sections */
 .section{
@@ -229,7 +229,5 @@ ul.row{
    --section-title-color: var(--color-white);
    background: var(--color-black);
 }
-
-
 
 
