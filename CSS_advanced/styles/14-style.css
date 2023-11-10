@@ -12,7 +12,7 @@ legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:
 details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}
 /*# sourceMappingURL=normalize.min.css.map */
 
-root{
+:root{
      /* colors */
     --color-primary:#d73953;
     --color-black: #090909;
